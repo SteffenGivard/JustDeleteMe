@@ -1,5 +1,5 @@
 {
-    "about": "About",
+    "about": "Sobre",
     "contribute": "Contribua no GitHub",
     "defaultnote_easy": "Visite a página do link e delete a sua conta.",
     "defaultnote_email": "Envie um e-mail para o endereço fornecido e solicite a que a conta seja deletada.",
@@ -13,7 +13,7 @@
     "extensionguide": "Guia da Simbologia da Extensão",
     "extensionp1": "Quando você estiver em um site que está listado no JustDeleteMe, a extensão irá adicionar um pequeno ponto na omnibar. Clicando neste ponto irá levar você até a página para deletar sua conta.",
     "extensionp2": "Para instalá-la, acesse a",
-    "extensionp3": "Chrome Web Store",
+    "extensionp3": "Chrome Web Store (Não Oficial)",
     "extensionp4": "Firefox Add-ons",
     "extensionp5": "",
     "footercredits": "Feito por",
@@ -30,9 +30,9 @@
     "noinfo": "Nenhuma Informação Disponível",
     "noresults": "Não encontrou o que procurava?",
     "noresultshelp": "Ajude a tornar o JustDeleteMe melhor",
-    "popular": "Popular",
-    "pullrequest": "Faça um 'Pull Request' no GitHub",
-    "reset": "Reset",
+    "popular": "Populares",
+    "pullrequest": "Faça um \"Pull Request\" no GitHub",
+    "reset": "Reiniciar",
     "search": "Pesquisar",
     "sendmail": "Enviar e-mail",
     "showinfo": "exibir informações...",
@@ -41,7 +41,7 @@
     "twitter": "Tuíte sobre o JDM",
     "whatisthis": "O que é isto?",
     "whatisthis1": "Diversas empresas usam técnicas",
-    "whatisthis2": "dark pattern",
+    "whatisthis2": "\"dark pattern\"",
     "whatisthis3": "para tornar difícil encontrar como deletar sua conta. JustDeleteMe tem por objetivo ser um diretório de urls que tornem fácil a remoção de sua conta em serviços da web.",
     "whatisthis4": "Sabe de um site que você acha que deve ser adicionado?"
 }
